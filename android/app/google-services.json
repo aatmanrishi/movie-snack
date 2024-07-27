@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936254452244",
+    "project_id": "moviesnack-65c0f",
+    "storage_bucket": "moviesnack-65c0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936254452244:android:e55ac66dfd9b5c1292ad01",
+        "android_client_info": {
+          "package_name": "com.example.movie_snack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzK9gpiVOixb8AmB9A6JS33gT3R4l6TXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
